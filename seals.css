@@ -40,6 +40,8 @@ article
 body 
 {
 	background-image: url("background.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
 }
 
 img 
