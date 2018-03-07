@@ -39,9 +39,11 @@ article
 
 body 
 {
+	background-position: center center;
 	background-attachment: fixed;
-	background-repeat: repeat-x;
+	background-repeat: no-repeat;
 	background-image: url("background.jpg");
+	background-size: cover;
 }
 
 img 
