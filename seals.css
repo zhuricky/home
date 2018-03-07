@@ -39,9 +39,9 @@ article
 
 body 
 {
-	background-image: url("background.jpg");
 	background-attachment: fixed;
 	background-repeat: repeat-x;
+	background-image: url("background.jpg");
 }
 
 img 
